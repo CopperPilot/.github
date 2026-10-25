@@ -50,8 +50,8 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       <sub>KiCad 10 · 8-layer controlled impedance · JLCPCB-ready</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/CopperPilot/copperpilot-retro-handheld"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-retro-handheld.gif" alt="ESP32-S3 retro handheld console, exploded view of the case and board"></a>
-      <p><b><a href="https://github.com/CopperPilot/copperpilot-retro-handheld">Retro Handheld</a></b><br>
+      <a href="https://github.com/CopperPilot/retro-handheld-copperpilot"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-retro-handheld.gif" alt="ESP32-S3 retro handheld console, exploded view of the case and board"></a>
+      <p><b><a href="https://github.com/CopperPilot/retro-handheld-copperpilot">Retro Handheld</a></b><br>
       An ESP32-S3 game console on one 63 × 80 mm board. 2.4" TFT, 14 buttons, USB-C charging that keeps you playing, and a snap-fit case to print.</p>
       <sub>KiCad 10 · 4-layer · enclosure STLs · Lion Circuits-ready</sub>
     </td>
