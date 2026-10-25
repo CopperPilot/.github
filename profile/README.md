@@ -42,6 +42,21 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       <sub>KiCad 10 · 6-layer ENIG · JLCPCB-ready</sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/Jetson-AI-Cam-CopperPilot"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-jetson-ai-camera.jpg" alt="Jetson stereo AI camera carrier board, 3D render of the camera side"></a>
+      <p><b><a href="https://github.com/CopperPilot/Jetson-AI-Cam-CopperPilot">Jetson Stereo AI Camera</a></b><br>
+      A carrier for Jetson Nano, Xavier NX and TX2 NX with two IMX219 cameras on a 39 mm stereo baseline, dual 4K outputs and CAN. Inspired by <a href="https://github.com/antmicro/jetson-nano-baseboard">Antmicro's baseboard</a>.</p>
+      <sub>KiCad 10 · 8-layer controlled impedance · JLCPCB-ready</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/copperpilot-retro-handheld"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-retro-handheld.gif" alt="ESP32-S3 retro handheld console, exploded view of the case and board"></a>
+      <p><b><a href="https://github.com/CopperPilot/copperpilot-retro-handheld">Retro Handheld</a></b><br>
+      An ESP32-S3 game console on one 63 × 80 mm board. 2.4" TFT, 14 buttons, USB-C charging that keeps you playing, and a snap-fit case to print.</p>
+      <sub>KiCad 10 · 4-layer · enclosure STLs · Lion Circuits-ready</sub>
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 ## Built in public
