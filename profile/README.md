@@ -55,7 +55,12 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       An ESP32-S3 game console on one 63 × 80 mm board. 2.4" TFT, 14 buttons, USB-C charging that keeps you playing, and a snap-fit case to print.</p>
       <sub>KiCad 10 · 4-layer · enclosure STLs · Lion Circuits-ready</sub>
     </td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/laptop"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-laptop.gif" alt="Thin aluminium CM5 laptop, exploded view of the boards, battery and enclosure"></a>
+      <p><b><a href="https://github.com/CopperPilot/laptop">Laptop</a></b><br>
+      A 13-inch aluminium laptop around a Raspberry Pi CM5, designed end to end by CopperPilot. Three boards, a 66 Wh 2S pack, 20 V USB-C charging, scissor keyboard and glass trackpad.</p>
+      <sub>KiCad 10 · 3 boards · 0 review P0, 9 P1 open · not yet built · JLCPCB-ready</sub>
+    </td>
   </tr>
 </table>
 
