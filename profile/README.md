@@ -62,6 +62,16 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       <sub>KiCad 10 · 3 boards · 0 review P0, 9 P1 open · not yet built · JLCPCB-ready</sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/retro-handheld"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-retro-handheld-vertical.gif" alt="Vertical STM32 pocket game console, exploded view of the aluminium case, board and battery"></a>
+      <p><b><a href="https://github.com/CopperPilot/retro-handheld">Retro Handheld, vertical</a></b><br>
+      A pocket vertical game console designed end to end by CopperPilot from four photos and a two-line prompt. STM32F412, 2.4" 320 × 240 IPS screen, D-pad, ABXY and shoulder buttons, 1200 mAh LiPo with USB-C charging, CNC aluminium case.</p>
+      <sub>KiCad 10 · 2-layer · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 ## Built in public
