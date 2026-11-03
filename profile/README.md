@@ -69,7 +69,12 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       A pocket vertical game console designed end to end by CopperPilot from four photos and a two-line prompt. STM32F412, 2.4" 320 × 240 IPS screen, D-pad, ABXY and shoulder buttons, 1200 mAh LiPo with USB-C charging, CNC aluminium case.</p>
       <sub>KiCad 10 · 2-layer · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
     </td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/desktop-computer-retro"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-desktop-computer-retro.gif" alt="1980s-style all-in-one desktop computer with its keyboard and one-button mouse"></a>
+      <p><b><a href="https://github.com/CopperPilot/desktop-computer-retro">Retro Desktop Computer</a></b><br>
+      A 1980s-style all-in-one desktop designed end to end by CopperPilot from three photos and a two-line prompt. Raspberry Pi CM5, 8" 4:3 IPS screen and front SD slot, plus its own 58-key mechanical keyboard (RP2040) and one-button optical mouse, all on USB-C.</p>
+      <sub>KiCad 10 · 3 modules, 4 boards · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
+    </td>
     <td width="33%" valign="top"></td>
   </tr>
 </table>
