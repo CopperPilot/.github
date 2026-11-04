@@ -75,7 +75,12 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       A 1980s-style all-in-one desktop designed end to end by CopperPilot from three photos and a two-line prompt. Raspberry Pi CM5, 8" 4:3 IPS screen and front SD slot, plus its own 58-key mechanical keyboard (RP2040) and one-button optical mouse, all on USB-C.</p>
       <sub>KiCad 10 · 3 modules, 4 boards · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
     </td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/smartwatch"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-smartwatch.gif" alt="Rugged 49 mm smartwatch with a rotary crown on an orange sport band"></a>
+      <p><b><a href="https://github.com/CopperPilot/smartwatch">Rugged Smartwatch</a></b><br>
+      A rugged 49 mm smartwatch designed end to end by CopperPilot from three photos and a short prompt. ESP32-S3, 1.9" IPS screen under flat cover glass, rotary crown, optical heart-rate sensor and magnetic rear charging, on a standard 49 mm sport band.</p>
+      <sub>KiCad 10 · 2-layer · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
+    </td>
   </tr>
 </table>
 
