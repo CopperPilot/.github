@@ -59,7 +59,7 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       <a href="https://github.com/CopperPilot/laptop"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-laptop.gif" alt="Thin aluminium CM5 laptop, exploded view of the boards, battery and enclosure"></a>
       <p><b><a href="https://github.com/CopperPilot/laptop">Laptop</a></b><br>
       A 13-inch aluminium laptop around a Raspberry Pi CM5, designed end to end by CopperPilot. Three boards, a 66 Wh 2S pack, 20 V USB-C charging, scissor keyboard and glass trackpad.</p>
-      <sub>KiCad 10 · 3 boards · 0 review P0, 9 P1 open · not yet built · JLCPCB-ready</sub>
+      <sub>KiCad 10 · 3 boards · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
     </td>
   </tr>
   <tr>
