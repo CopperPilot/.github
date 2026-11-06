@@ -82,6 +82,16 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       <sub>KiCad 10 · 2-layer · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/tablet"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-tablet.gif" alt="8.4-inch tablet with an aluminium back, exploded view of the strip mainboard, battery and display"></a>
+      <p><b><a href="https://github.com/CopperPilot/tablet">Tablet</a></b><br>
+      An 8.4-inch tablet designed end to end by CopperPilot from three photos and a prompt. Chip-down RK3566 with 4 GB LPDDR4X and 64 GB eMMC on an 8-layer strip mainboard, 1600 × 2560 dual-DSI display, two cameras, stereo speakers and a 21 Wh battery.</p>
+      <sub>KiCad 10 · 8-layer · 2 boards · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 ## Built in public
