@@ -89,7 +89,12 @@ Real boards, not demos. Clone them, open them in KiCad, send them to the fab.
       An 8.4-inch tablet designed end to end by CopperPilot from three photos and a prompt. Chip-down RK3566 with 4 GB LPDDR4X and 64 GB eMMC on an 8-layer strip mainboard, 1600 × 2560 dual-DSI display, two cameras, stereo speakers and a 21 Wh battery.</p>
       <sub>KiCad 10 · 8-layer · 2 boards · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
     </td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/CopperPilot/remake-xiao-esp32s3-sense-kicad"><img src="https://raw.githubusercontent.com/CopperPilot/.github/main/profile/assets/oss-xiao-esp32s3-sense.gif" alt="Thumb-sized XIAO ESP32S3 Sense two-board stack in KiCad 10, exploded view of the ESP32-S3R8 base board, Sense daughterboard and OV3660 camera"></a>
+      <p><b><a href="https://github.com/CopperPilot/remake-xiao-esp32s3-sense-kicad">XIAO ESP32S3 Sense Remake</a></b><br>
+      An unofficial KiCad 10 remake of the thumb-sized XIAO ESP32S3 Sense camera and audio stack, designed by AdityaNG and CopperPilot from six reference photos. ESP32-S3R8 base board + Sense expansion daughterboard with an OV3660 camera, PDM MEMS microphone and microSD slot on a 30-pin Hirose DF40 connector.</p>
+      <sub>KiCad 10 · 4-layer · 2 boards · 0 review P0/P1 open · not yet built · JLCPCB-ready</sub>
+    </td>
     <td width="33%" valign="top"></td>
   </tr>
 </table>
